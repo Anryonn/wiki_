@@ -1,0 +1,26 @@
+
+/* Aumentar un poco el tamaño de las letras */
+body {
+    font-size: 17px;
+}
+
+/* Mantener todos los enlaces azules */
+a {
+    color: #3056A9;
+    text-decoration: none;
+}
+
+/* Evitar que cambien de color al visitarlos */
+a:visited {
+    color: #3056A9;
+}
+
+/* Mantener el color azul al pasar el mouse */
+a:hover {
+    color: #3056A9;
+}
+
+/* Mantener el color azul al hacer clic */
+a:active {
+    color: #3056A9;
+}
